@@ -1,0 +1,1 @@
+'''A file that initializes the \'algorithms\' module.'''

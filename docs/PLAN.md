@@ -35,3 +35,7 @@ After one week, have...
 - [] Implement progressive visuals which go along with the code-flow/explaination
 
 ### Checklist (make as you go along)
+
+- [X] Select the algorithms to use in the project
+- [] Learn about the algorithms
+- [] Complete the code for one algorithm to work
