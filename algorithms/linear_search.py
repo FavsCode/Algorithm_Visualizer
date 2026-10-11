@@ -1,0 +1,1 @@
+'''A linear search algorithm written in Python'''
